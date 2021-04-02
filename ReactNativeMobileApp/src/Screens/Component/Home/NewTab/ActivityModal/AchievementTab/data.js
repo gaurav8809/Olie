@@ -1,0 +1,98 @@
+import {
+  achievement_the_beast,
+  achievement_the_collector,
+  achievement_the_health,
+  achievement_the_network,
+  achievement_the_rider,
+} from '../../../../../Assets';
+
+export const customBadges = [
+  achievement_the_beast,
+  achievement_the_collector,
+  achievement_the_health,
+  achievement_the_network,
+  achievement_the_rider,
+];
+
+export const arr = [
+  {
+    id: 0,
+    avatar: achievement_the_collector,
+    title: 'The Collector',
+    completed: 5000,
+    total: 5000,
+    unit: 'Miles',
+  },
+  {
+    id: 1,
+    avatar: achievement_the_rider,
+    title: 'The Rider',
+    completed: 800,
+    total: 800,
+    unit: 'Miles',
+  },
+  {
+    id: 2,
+    avatar: achievement_the_beast,
+    title: 'The Beast',
+    completed: 2500,
+    total: 2500,
+    unit: 'Miles',
+  },
+  {
+    id: 3,
+    avatar: achievement_the_health,
+    title: 'The Health',
+    completed: 2000,
+    total: 10000,
+    unit: 'Calories',
+  },
+  {
+    id: 4,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+  {
+    id: 5,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+  {
+    id: 6,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+  {
+    id: 7,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+  {
+    id: 8,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+  {
+    id: 9,
+    avatar: achievement_the_network,
+    title: 'The Network',
+    completed: 50,
+    total: 150,
+    unit: 'Friends',
+  },
+];

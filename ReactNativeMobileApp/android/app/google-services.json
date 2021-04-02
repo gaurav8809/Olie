@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407460303638",
+    "firebase_url": "https://olie-backend.firebaseio.com",
+    "project_id": "olie-backend",
+    "storage_bucket": "olie-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407460303638:android:8e026ff934ed1910f6f637",
+        "android_client_info": {
+          "package_name": "com.olieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407460303638-mspqevk1ni8ofld6af5ji2c58jh34kt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWiIFW6iLSTS8OjEuhKXtEnY3th2XJfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407460303638-mspqevk1ni8ofld6af5ji2c58jh34kt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407460303638-v86k18vq411uktitl1opl46c080mspfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.olie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
